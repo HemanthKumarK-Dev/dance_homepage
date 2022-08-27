@@ -188,6 +188,9 @@ margin-top: 30px;
     display: none;
 }
 
+.ic{
+    display: none;
+}
 
 @media screen and (max-width:700px){
    .container{
@@ -197,12 +200,20 @@ margin-top: 30px;
 
 
 .left-section{
- display:inline;
+ display:flex;
  background: none;
  background-color: #f5f2f0;
-    
 }
 
+.logo{
+    margin-left: 0px;
+}
+.ic{
+    display: inline;
+    font-size: 34px;
+    margin-left: 270px;
+
+}
 
 .firstimage{
     display: block;
@@ -216,8 +227,7 @@ margin-top: 30px;
     }
 
 .list-item{
-    display:none;
-
+display: none;
 }
 
 main{
