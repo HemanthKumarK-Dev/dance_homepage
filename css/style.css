@@ -273,10 +273,10 @@ main{
 
 .bottom-section{
     display: grid;
-    grid-template-columns: 1fr 1.5fr;
+    grid-template-columns: 1.5fr 1.5fr;
 }
 .types{
-    margin-left: 30px;
+    margin-left: 10px; 
 }
 
 .list-types{
@@ -286,11 +286,12 @@ main{
 
 hr{
  
-    left: 34px;
-    top:1040px;
+    left: 14px;
+    top:1080px;
     height: 285px;
 
 }
+
 .sec-4{
     margin-top: 30px;
     margin-left: 30px;
@@ -317,6 +318,7 @@ margin-top: 30px;
 .arrow img{
     width: 40px;
 }
+
 
 
 }
