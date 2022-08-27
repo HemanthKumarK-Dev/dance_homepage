@@ -197,7 +197,9 @@ margin-top: 30px;
 
 
 .left-section{
- display: none;
+ display:inline;
+ background: none;
+ background-color: #f5f2f0;
     
 }
 
@@ -261,14 +263,14 @@ main{
 
 .bottom-section{
     display: grid;
-    grid-template-columns: 1fr 1.7fr;
+    grid-template-columns: 1fr 1.9fr;
 }
 .types{
-    margin-left: 50px;
+    margin-left: 5px;
 }
 
 .list-types{
-    margin-top:30px;
+    margin-top:50px;
 }
 
 
@@ -277,8 +279,8 @@ hr{
 
 }
 .sec-4{
-    margin-top: 40px;
-    margin-left: 70px;
+    margin-top: 30px;
+    margin-left: 30px;
 }
 
 .sec-4 p{
@@ -286,10 +288,10 @@ margin-top: 30px;
 }
 
 .sec-4 img{
-    margin-top: 20px;
-    height: 240px;
+    margin-top: 30px;
+    height: 274px;
     width: 100%;
-    object-fit: cover;
+    object-fit:contain;
 }
 
 .arrow{
