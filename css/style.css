@@ -273,10 +273,10 @@ main{
 
 .bottom-section{
     display: grid;
-    grid-template-columns: 1fr 1.9fr;
+    grid-template-columns: 1fr 1.5fr;
 }
 .types{
-    margin-left: 10px;
+    margin-left: 30px;
 }
 
 .list-types{
@@ -286,8 +286,8 @@ main{
 
 hr{
  
-    left: 14px;
-    top:1030px;
+    left: 34px;
+    top:1040px;
     height: 285px;
 
 }
