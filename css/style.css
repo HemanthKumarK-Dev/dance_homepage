@@ -276,7 +276,7 @@ main{
     grid-template-columns: 1fr 1.9fr;
 }
 .types{
-    margin-left: 5px;
+    margin-left: 10px;
 }
 
 .list-types{
@@ -285,7 +285,10 @@ main{
 
 
 hr{
-  display: none;
+ 
+    left: 14px;
+    top:1030px;
+    height: 285px;
 
 }
 .sec-4{
